@@ -1,0 +1,7 @@
+object: orig/GKYE01/sys/main.dol
+hash: 977533bb96e6a16e127946396489be1b4164ac42
+detect_objects: true
+quick_analysis: false
+detect_strings: true
+write_asm: true
+fill_gaps: true

@@ -1,0 +1,8 @@
+object: orig/GKYP01/sys/main.dol
+hash: 14e43ef2e3d971bbb6aae596a175ac485ff242a8
+mw_comment_version: 8
+detect_objects: true
+quick_analysis: false
+detect_strings: true
+write_asm: true
+fill_gaps: true
